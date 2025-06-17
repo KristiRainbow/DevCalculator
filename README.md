@@ -1,1 +1,1 @@
-# DevCalculator
+# DevCalculator this is a simple calculator for parents. It allows them to see hoe much brain development their children still need to finish. This should help parents feel calmer when kids "act their age" because the parent can see their age is no where near done developing pre frontal cortex development. 
